@@ -1,7 +1,7 @@
 
 # INVA PiReps System
  
- ![](https://img.shields.io/static/v1?style=flat&logo=appveyor&logo=https://simpleicons.org/icons/discord.svg&label=&message=𝖊𝖑𝖉𝖗𝖆𝖌𝖔.#6586&color=#5865F2)
+ ![](https://img.shields.io/static/v1?style=flat&logo=appveyor&logo=discord&label=&message=𝖊𝖑𝖉𝖗𝖆𝖌𝖔.#6586&color=#5865F2)
  
 This entire ecosystem is built on the need to integrate AirTable with discord. Whenever pilots report by AirTable form, an embedded message is sent to discord. This was the most efficient way to do the task that is, by discord webhooks so there is no need of creating and _hosting_ a discord bot.
 
@@ -15,7 +15,8 @@ graph TD;
 ```
 
 <details><summary>Aglorithm Image</summary>
-![algotemplate](https://github.com/eldrago4/INVA-Pireps-System/assets/63483703/33e6e9f5-17bb-4e26-8952-aaebd6de680e)
+![algotemplate](https://github.com/eldrago4/INVA-Pireps-System/assets/63483703/9ab867c6-c3da-40c8-9231-06d9962dd774)
+
 </details>
 
 
@@ -62,16 +63,16 @@ The **UrlFetchApp.fetch()** function is called with the Discord webhook URL and 
 
 <details>
   <summary>References</summary>
-## References
+
 [^1]: [Cannot find active sheet: TypeError: read properties of undefined (reading 'source')](https://webapps.stackexchange.com/questions/169822/cannot-find-active-sheet-typeerror-read-properties-of-undefined-reading-sour)
 
-[^2]: [Google Apps Script Documentation)](https://developers.google.com/apps-script)
+[^2]: [Google Apps Script Documentation](https://developers.google.com/apps-script)
 
-[^3]: [Spreadsheet Service)](https://developers.google.com/apps-script/reference/spreadsheet) ` covers the Spreadsheet Service in Google Apps Script, which provides methods for working with Google Sheets.`
+[^3]: [Spreadsheet Service](https://developers.google.com/apps-script/reference/spreadsheet) ` covers the Spreadsheet Service in Google Apps Script, which provides methods for working with Google Sheets.`
 
-[^4]: [UrlFetchApp)](https://developers.google.com/apps-script/reference/url-fetch/url-fetch-app) ` allows making HTTP requests from a script, including sending POST requests to webhooks.`
+[^4]: [UrlFetchApp](https://developers.google.com/apps-script/reference/url-fetch/url-fetch-app) ` allows making HTTP requests from a script, including sending POST requests to webhooks.`
 
-[^5]: (Discord Webhooks Documentation)](https://discord.com/developers/docs/resources/webhook)
+[^5]: (Discord Webhooks Documentation](https://discord.com/developers/docs/resources/webhook)
 </details>
 
 
@@ -79,7 +80,6 @@ The **UrlFetchApp.fetch()** function is called with the Discord webhook URL and 
 
 <details>
 <summary>Contact Me!</summary>
-## Contact Me!
 [gmail](mailto:tred38434@gmail.com)
 </details>
 

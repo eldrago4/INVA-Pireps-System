@@ -60,15 +60,15 @@ The **UrlFetchApp.fetch()** function is called with the Discord webhook URL and 
 <details>
   <summary>References</summary>
 ## References
-[Cannot find active sheet: TypeError: read properties of undefined (reading 'source')](https://webapps.stackexchange.com/questions/169822/cannot-find-active-sheet-typeerror-read-properties-of-undefined-reading-sour)[^1]
+[^1]:[Cannot find active sheet: TypeError: read properties of undefined (reading 'source')](https://webapps.stackexchange.com/questions/169822/cannot-find-active-sheet-typeerror-read-properties-of-undefined-reading-sour)
 
-[Google Apps Script Documentation)](https://developers.google.com/apps-script)[^2]
+[^2]:[Google Apps Script Documentation)](https://developers.google.com/apps-script)
 
-[Spreadsheet Service)](https://developers.google.com/apps-script/reference/spreadsheet) ` covers the Spreadsheet Service in Google Apps Script, which provides methods for working with Google Sheets.`[^3]
+[^3]:[Spreadsheet Service)](https://developers.google.com/apps-script/reference/spreadsheet) ` covers the Spreadsheet Service in Google Apps Script, which provides methods for working with Google Sheets.`
 
-[UrlFetchApp)](https://developers.google.com/apps-script/reference/url-fetch/url-fetch-app) ` allows making HTTP requests from a script, including sending POST requests to webhooks.`[^4]
+[^4]:[UrlFetchApp)](https://developers.google.com/apps-script/reference/url-fetch/url-fetch-app) ` allows making HTTP requests from a script, including sending POST requests to webhooks.`
 
-[ Discord Webhooks Documentation)](https://discord.com/developers/docs/resources/webhook)[^5]
+[^5]:(Discord Webhooks Documentation)](https://discord.com/developers/docs/resources/webhook)
 </details>
 
 

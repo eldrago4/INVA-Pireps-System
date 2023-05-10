@@ -64,16 +64,22 @@ The **UrlFetchApp.fetch()** function is called with the Discord webhook URL and 
 <details>
   <summary>References</summary>
 
-[^1]: [Cannot find active sheet: TypeError: read properties of undefined (reading 'source')](https://webapps.stackexchange.com/questions/169822/cannot-find-active-sheet-typeerror-read-properties-of-undefined-reading-sour)
-
-[^2]: [Google Apps Script Documentation](https://developers.google.com/apps-script)
-
-[^3]: [Spreadsheet Service](https://developers.google.com/apps-script/reference/spreadsheet) ` covers the Spreadsheet Service in Google Apps Script, which provides methods for working with Google Sheets.`
-
-[^4]: [UrlFetchApp](https://developers.google.com/apps-script/reference/url-fetch/url-fetch-app) ` allows making HTTP requests from a script, including sending POST requests to webhooks.`
-
-[^5]: (Discord Webhooks Documentation](https://discord.com/developers/docs/resources/webhook)
+1. [Cannot find active sheet: TypeError: read properties of undefined (reading 'source')](https://webapps.stackexchange.com/questions/169822/cannot-find-active-sheet-typeerror-read-properties-of-undefined-reading-sour)
+2. [Google Apps Script Documentation](https://developers.google.com/apps-script)
+3. [Spreadsheet Service](https://developers.google.com/apps-script/reference/spreadsheet) - Covers the Spreadsheet Service in Google Apps Script, which provides methods for working with Google Sheets.
+4. [UrlFetchApp](https://developers.google.com/apps-script/reference/url-fetch/url-fetch-app) - Allows making HTTP requests from a script, including sending POST requests to webhooks.
+5. [Discord Webhooks Documentation](https://discord.com/developers/docs/resources/webhook)
+  
 </details>
+
+<sup>[1](#note1) [2](#note2) [3](#note3) [4](#note4) [5](#note5)</sup>
+
+
+<a name="note1">1:</a> Cannot find active sheet: TypeError: read properties of undefined (reading 'source')  
+<a name="note2">2:</a> Google Apps Script Documentation  
+<a name="note3">3:</a> Spreadsheet Service - Covers the Spreadsheet Service in Google Apps Script, which provides methods for working with Google Sheets.  
+<a name="note4">4:</a> UrlFetchApp - Allows making HTTP requests from a script, including sending POST requests to webhooks.  
+<a name="note5">5:</a> Discord Webhooks Documentation  
 
 
 

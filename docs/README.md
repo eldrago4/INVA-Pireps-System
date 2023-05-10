@@ -64,11 +64,11 @@ The **UrlFetchApp.fetch()** function is called with the Discord webhook URL and 
 <details>
   <summary>References</summary>
 
-<a name="note1">1:</a> [Cannot find active sheet: TypeError: read properties of undefined (reading 'source')](https://webapps.stackexchange.com/questions/169822/cannot-find-active-sheet-typeerror-read-properties-of-undefined-reading-sour)
-<a name="note2">2:</a> [Google Apps Script Documentation](https://developers.google.com/apps-script)
-<a name="note3">3:</a> [Spreadsheet Service](https://developers.google.com/apps-script/reference/spreadsheet) - Covers the Spreadsheet Service in Google Apps Script, which provides methods for working with Google Sheets.
-<a name="note4">4:</a> [UrlFetchApp](https://developers.google.com/apps-script/reference/url-fetch/url-fetch-app) - Allows making HTTP requests from a script, including sending POST requests to webhooks.
-<a name="note5">5:</a> [Discord Webhooks Documentation](https://discord.com/developers/docs/resources/webhook)
+1. <a name="note1"></a> [Cannot find active sheet: TypeError: read properties of undefined (reading 'source')](https://webapps.stackexchange.com/questions/169822/cannot-find-active-sheet-typeerror-read-properties-of-undefined-reading-sour)
+2. <a name="note2"></a> [Google Apps Script Documentation](https://developers.google.com/apps-script)
+3. <a name="note3">3:</a> [Spreadsheet Service](https://developers.google.com/apps-script/reference/spreadsheet) - Covers the Spreadsheet Service in Google Apps Script, which provides methods for working with Google Sheets.
+4. <a name="note4">4:</a> [UrlFetchApp](https://developers.google.com/apps-script/reference/url-fetch/url-fetch-app) - Allows making HTTP requests from a script, including sending POST requests to webhooks.
+5. <a name="note5">5:</a> [Discord Webhooks Documentation](https://discord.com/developers/docs/resources/webhook)
   
 </details>
 

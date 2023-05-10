@@ -7,12 +7,12 @@ This is achieved by following algorithm :-
 
 ```mermaid
 graph TD;
-    Pilot creates a record in AirTable-->Airtable Automation sends it to our Spreadsheet;
-    Airtable Automation sends it to our Spreadsheet-->Google Apps Script sends it to Discord channel;
-    Google Apps Script sends it to Discord channel-->We get reported pirep as a Discord Embed;
+    A(Pilot creates a record in AirTable)-->B(Airtable Automation sends it to our Spreadsheet);
+    B-->C(Google Apps Script sends it to Discord channel);
+    C-->D(We get reported pirep as a Discord Embed);
 ```
 
-<details><>summary>Aglorithm Image</summary>
+<details><summary>Aglorithm Image</summary>
 ![algotemplate](https://github.com/eldrago4/INVA-Pireps-System/assets/63483703/bb7eee89-7a26-4d44-9b18-0fae6e465400)
 </details>
 
@@ -55,7 +55,7 @@ The created fields are added to the embed object.
 
 Finally, the options object is prepared for making a **POST** request to the Discord webhook URL, including the JSON-encoded embed object as the payload.
 
-The** UrlFetchApp.fetch()** function is called with the Discord webhook URL and options to send the POST request, effectively sending the data to the Discord channel.
+The **UrlFetchApp.fetch()** function is called with the Discord webhook URL and options to send the POST request, effectively sending the data to the Discord channel.
 
 <details>
   <summary>References</summary>
@@ -75,7 +75,7 @@ The** UrlFetchApp.fetch()** function is called with the Discord webhook URL and 
 
 
 <details>
-<summary>## Contact Me!</summary>
+<summary>Contact Me!</summary>
 ## Contact Me!
 [gmail](mailto:tred38434@gmail.com)
 </details>

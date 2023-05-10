@@ -1,7 +1,7 @@
 
 # INVA PiReps System
  
- ![](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=#5865F2&message=𝖊𝖑𝖉𝖗𝖆𝖌𝖔.#6586&color=back)
+ ![](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=#5865F2@label=%20&message=𝖊𝖑𝖉𝖗𝖆𝖌𝖔.#6586&color=back)
  
 This entire ecosystem is built on the need to integrate AirTable with discord. Whenever pilots report by AirTable form, an embedded message is sent to discord. This was the most efficient way to do the task that is, by discord webhooks so there is no need of creating and _hosting_ a discord bot.
 

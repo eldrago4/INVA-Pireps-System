@@ -7,7 +7,7 @@ function createOnChangeTrigger() {
 }
 
 function onNewRowAdded() {
-  var discordWebhookUrl = "https://discord.com/api/webhooks/1105280257134694456/GwLEfAdwngwf2g9nFcEdqgWW8_Z6EeavXBnnNWS17uqgGWsX2llcylusv3MxVI0X7RD3";
+  var discordWebhookUrl = "discord-channel-webhook"; // replace your webhook url here;)
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
   var editedRange = SpreadsheetApp.getActiveRange();
   var editedRow = editedRange.getRow();

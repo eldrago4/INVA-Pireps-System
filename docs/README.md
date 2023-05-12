@@ -14,11 +14,7 @@ graph TD;
     C-->D(We get reported pirep as a Discord Embed);
 ```
 
-<details><summary>Aglorithm Image</summary>
-![algotemplate](https://github.com/eldrago4/INVA-Pireps-System/assets/63483703/9ab867c6-c3da-40c8-9231-06d9962dd774)
-
-</details>
-
+<sup>[algotemplate.png](https://github.com/eldrago4/INVA-Pireps-System/assets/63483703/9ab867c6-c3da-40c8-9231-06d9962dd774)</sup>
 
 ## Appendix
 
@@ -47,9 +43,9 @@ The code checks if the new row falls within the specified range by comparing the
 
 If the new row is within the range, the code proceeds to extract the data from the row.
 
-The headers variable retrieves the header values from the first row of the spreadsheet.
+The `headers` variable retrieves the header values from the first row of the spreadsheet.
 
-The values variable retrieves the values from the new row.
+The `values` variable retrieves the values from the new row.
 
 The code then constructs an **embed object** with a title, color, and an empty array of fields.
 

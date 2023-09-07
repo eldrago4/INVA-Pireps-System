@@ -72,5 +72,5 @@ The **UrlFetchApp.fetch()** function is called with the Discord webhook URL and 
 
 <details>
 <summary>Contact Me!</summary>
-<p><a href="mailto:tred38434@gmail.com">gmail</a></p>
+<p><a href="mailto:dev@eldrago.cloud">email</a></p>
 </details>
